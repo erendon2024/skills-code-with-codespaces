@@ -22,7 +22,7 @@ _Develop code using GitHub Codespaces and Visual Studio Code!_
 -->
 
 ## Step 2: Add a custom image to your codespace!
-
+animo
 _Nice work! :tada: You created your first codespace and pushed code using VS Code!_
 
 You can configure the development container for a repository so that any codespace created for that repository will give you a tailored development environment, complete with all the tools and runtimes you need to work on a specific project.
